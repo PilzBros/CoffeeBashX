@@ -1,0 +1,10 @@
+name: CoffeeBashX
+version: 1.1
+main: com.pilzbros.coffeebashx.CoffeeBashX
+description: Greatest way to add Coffee to the game!
+depend: [Vault]
+
+commands:
+  CoffeeBashX:
+    description: Main Command.
+    aliases: [cbx]

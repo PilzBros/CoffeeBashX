@@ -1,0 +1,4 @@
+#This is the default configuration for CBX, by Livid_C0ffee!
+
+#This option sets the price for coffee, price must be a double! (i.e. 5.00)
+price: 5.00
